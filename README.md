@@ -137,7 +137,7 @@ const element = screen.queryByText('hurrah')
 ## FAQ
 
 <details>
-  <summary>I feel very stuck. What can I do?</summary>
+  <summary>I feel very stuck. What can I do?</summary>   
 
 Do not struggle for an unreasonable amount of time! Request support via one of the available channels.
 
